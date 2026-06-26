@@ -1,0 +1,8 @@
+{
+  "name": "House Price Prediction ANN",
+  "description": "End-to-End House Price Prediction Project using Artificial Neural Networks (ANN), tailored as a B.Tech Final Year presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
